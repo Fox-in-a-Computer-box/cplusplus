@@ -1,3 +1,8 @@
+/*This is my standard deviation console project, you can use it to help you out with statistics calculations.
+  I am currently working on a version of this program that can read data from files instead of requiring
+  manual data inputs into the console
+ */
+
 #include <iostream>
 #include <cmath>
 //#include <algorithm>
